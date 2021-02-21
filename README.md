@@ -1,10 +1,5 @@
 
-
-My name is Koen van Wijngaarden and I'm a Software Developer<br/>
-🌍 from the Netherlands,<br/>
-👨‍🎓 student at Hogeschool Leiden<br/>
-💼 working at Elsive.
-
+# 👋 Hello, coders!
 
 ## 🔧 Technologies & Tools
 
