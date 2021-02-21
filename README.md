@@ -13,10 +13,8 @@
 ![](https://img.shields.io/badge/Frameworks-FastAPI-informational?style=flat&logo=python&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Frameworks-Flask-informational?style=flat&logo=flask&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Frameworks-Discord.js-informational?style=flat&logo=discord&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=db4949)
+![](https://img.shields.io/badge/Editor-visualstudiocode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=db4949)
+
 
 
 ## 📚 Learning
