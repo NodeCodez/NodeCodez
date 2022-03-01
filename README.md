@@ -4,19 +4,15 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=db4949)
+![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=python&logoColor=white&color=db4949)
+![](https://img.shields.io/badge/Code-cpp-informational?style=flat&logo=python&logoColor=white&color=db4949)
+![](https://img.shields.io/badge/Code-cs-informational?style=flat&logo=python&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Frameworks-Discord.js-informational?style=flat&logo=discord&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Editor-Visualstudiocode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=db4949)
 
-
-
-## 📚 Learning
-
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=db4949)
 
 ## 📈 Stats
 
